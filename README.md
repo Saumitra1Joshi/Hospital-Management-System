@@ -1,3 +1,5 @@
+Project Done By - Saumitra Joshi, Akshat Anand
+Under the guidance of Ms. Briskilal J,AP , SRMIST
 # MERN-boilerplate
 
 This is a boilerplate project using the following technologies:
